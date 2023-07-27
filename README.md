@@ -1,36 +1,20 @@
-<div>
-  <h1>Olá! Me chamo Thailson, 
-  <br>
-  Desenvolvedor Web.</h1>
-</div>
+# Thailson Bezerra   🤙🏼
 
+Desenvolvedor na [Beyond Tecnologia](http://www.beyondtecnologia.com.br/).
+<img align="right" src="./assets/coding-black-and-white.png" max-width="425px" width="425px" align="right">
 
-<div style="display: inline_block"><br>
+A cada nova tecnologia, linguagem de programação ou conceito que mergulho, sinto uma empolgação única e uma vontade crescente de explorar mais. A possibilidade de criar soluções inovadoras e impactantes usando a tecnologia é algo que me inspira e motiva diariamente.
 
-  <h2>Tecnologias</h2>
-  
-  <a href="https://github.com/thailsonbezerra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thailsonbezerra&layout=compact&langs_count=7&theme=dracula"/>
+![Node Icon](./assets/icons8-node-js-45.png)
+![Typescript Icon](./assets/icons8-typescript-45.png)
+![Nest Icon](./assets/icons8-nestjs-45.png)
+![React Icon](./assets/icons8-react-native-45.png)
+![Docker Icon](./assets/icons8-docker-45.png)
+![Git Icon](./assets/icons8-git-45.png)
 
-  <h3>Dominantes </h3>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <h3>Estudando </h3>
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
+Agradeço por conferir o meu perfil. Vamos nos conectar e trocar conhecimentos. Sinta-se à vontade para explorar meus projetos e entrar em contato comigo para qualquer colaboração ou discussão interessante.
 
-<hr>
+[![Instagram Badge](https://img.shields.io/badge/@thailson.lima-252525?style=flat-square&labelColor=252525&logo=instagram&logoColor=white&link=https://www.instagram.com/thailson.lima)](https://www.instagram.com/thailson.lima) 
+[![Linkedin Badge](https://img.shields.io/badge/Thailson%20Bezerra-252525?style=flat-square&labelColor=252525&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thailsonbezerra/)](https://img.shields.io/badge/Thailson%20Bezerra-252525?style=flat-square&labelColor=252525&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thailsonbezerra/) 
+[![Gmail Badge](https://img.shields.io/badge/thailsonbezerra@outlook.com-252525?style=flat-square&labelColor=252525&logo=gmail&logoColor=white&link=mailto:thailsonbezerra@outlook.com)](mailto:thailsonbezerra@outlook.com)
 
-<div>
-
-  <h2>Contatos</h2>
-
-  <a href="https://www.linkedin.com/in/thailsonbezerra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:thailsonbezerra@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">     </a>
-  <a href="https://instagram.com/thailson.lima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-</div>
