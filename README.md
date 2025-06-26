@@ -1,6 +1,6 @@
 # Thailson Bezerra 🤙🏼
 
-Desenvolvedor na [Beyond Tecnologia](http://www.beyondtecnologia.com.br/).
+Desenvolvedor na [Mapia Inovação na Contabilidade](https://www.mapia.ai/).
 <img align="right" src="./assets/coding-black-and-white.png" max-width="375px" width="375px" align="right">
 
 A cada nova tecnologia, linguagem de programação ou conceito que mergulho, sinto uma empolgação única e uma vontade crescente de explorar mais. A possibilidade de criar soluções inovadoras e impactantes usando a tecnologia é algo que me inspira e motiva diariamente.
