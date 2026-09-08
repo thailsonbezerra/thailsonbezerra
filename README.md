@@ -1,7 +1,6 @@
 # Thailson Bezerra
 
 Desenvolvedor na [Mapia Inovação na Contabilidade](https://www.mapia.ai/).
-<img align="right" src="./assets/coding-black-and-white.png" max-width="375px" width="375px" align="right">
 
 A possibilidade de criar soluções inovadoras e impactantes usando a tecnologia é algo que me inspira e motiva diariamente.
 
